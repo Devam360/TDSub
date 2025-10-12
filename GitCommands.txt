@@ -1,4 +1,6 @@
 cd (Changes current directory)
+git config --global user.name "your github username"
+git config --global user.email "your github email ID" (Registers your device to git)
 git init (initialises/reinitialises local repositories)
 git remote add origin "URL" (Connects local repository to github repository)
 git status (checks directory for changes not added, removed or committed)
